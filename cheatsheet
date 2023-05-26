@@ -1,0 +1,6 @@
+git branch = zeigt alle Branchen an 
+git branch <branch-name> = erstellt einen neuen Branch 
+git checkout <Branch-name> = wechselt zu einem Branch 
+git ckeckout -b <branch-name>  legt einen neuen Branch an, und wechselt direkt dorthin 
+git merge <branch-name> = führt branch mit den aktuellen Branch zusammen 
+git push = änderungen die lokal gemacht wurden, werden in den Repo hinzugefügt 
